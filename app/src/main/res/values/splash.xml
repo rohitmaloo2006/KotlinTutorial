@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.app.starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenIconBackgroundColor">#FF0000</item>
+        <item name="windowSplashScreenBackground">#FFFF00</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.FlowApplication</item>
+    </style>
+</resources>
